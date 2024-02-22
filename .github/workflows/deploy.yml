@@ -1,4 +1,4 @@
-name: Deployment docker custom action
+name: Deployment custum action
 on:
   push:
     branches:
