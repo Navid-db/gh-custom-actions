@@ -1,4 +1,4 @@
-name: Deployment
+name: Deployment docker action
 on:
   push:
     branches:
